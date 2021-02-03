@@ -12,9 +12,9 @@ CPU cooler: Noctua NH-U12S
 Bluetooth: Fenvi t919  
 
 # Tricky parts:
-1. CPU graphics doesn't work becvause of the cable I use. I use HDMI cable and could get it working with external GPU `config.plist` toggle only  
+1. CPU graphics doesn't work because of the cable I use. I use HDMI cable and could get it working with external GPU `config.plist` toggle only  
 2. I had to remap some USB ports to enable Fenvi card to operate properly. I've used Hackintool for this  
-3. I had to disable "F1 warning" screen in BIOS because othewise I had to enter BIOS every time after MacOS reboots  
+3. I had to disable "F1 warning" screen in BIOS because otherwise I had to re-enter BIOS every time after MacOS reboots  
 
 # Updating
 
