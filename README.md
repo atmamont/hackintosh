@@ -22,4 +22,4 @@ Bluetooth: Fenvi t919
 2. Download the latest [OpenCore release](https://github.com/acidanthera/OpenCorePkg/releases) and update all the `.efi` and `.kext` files from the [build repo](https://dortania.github.io/builds/)
 3. Use [OCConfigCompare](https://github.com/corpnewt/OCConfigCompare) to compare and update the `.plist` to the latest version
 4. Use [ProperTree](https://github.com/corpnewt/ProperTree) to update the `.plist` snapshot
-5. Run a [sanity check](https://opencore.slowgeek.com/) on the `.plist`
+5. Boot from USB using freshly created EFI, copy to boot EFI partition if everything works
